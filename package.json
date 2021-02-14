@@ -27,6 +27,7 @@
     "babel-preset-stage-0": "^6.24.1",
     "babel-preset-stage-1": "^6.24.1",
     "chai": "^4.1.2",
+    "dotenv": "^4.0.0",
     "enzyme": "^3.3.0",
     "enzyme-adapter-react-16": "^1.0.1",
     "fetch-mock": "^6.5.2",
